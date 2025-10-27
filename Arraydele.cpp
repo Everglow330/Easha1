@@ -15,6 +15,7 @@ int arr[TotalElement];
 for(int i=0;i<TotalElement;i++){cin>>arr[i];}
 deletion(arr,TotalElement,3);
 
-
-
 }
+
+//amar code na
+
